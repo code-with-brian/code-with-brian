@@ -4,7 +4,7 @@ I'm Brian Palmer, a Team Lead with a passion for coding and all things tech. Wel
 
 ## About Me
 
-- 🌟 I'm a Team who loves to explore new technologies and build cool stuff.
+- 🌟 I'm a Team Lead who loves to explore new technologies and build cool stuff.
 - 🚀 I enjoy working on Web and Mobile applications.
 - 💡 I'm constantly learning and improving my skills.
 - 🥋 In my free time, you can find me doing Muay Thai, Jiu Jitsu and Mud Runs.
