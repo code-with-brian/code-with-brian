@@ -25,16 +25,6 @@ Here are some of the languages and tools I love to work with:
 - 🚀 Fun fact 2: A Minimalist Maven
 - 🎯 Fun fact 3: Culinary Craftsman
 
-## My Projects
-
-Here are some of the fun and exciting projects I've worked on:
-
-1. [Project 1 Name](Link to Project 1) - Brief description of the project.
-2. [Project 2 Name](Link to Project 2) - Brief description of the project.
-3. [Project 3 Name](Link to Project 3) - Brief description of the project.
-
-Feel free to explore these projects and let me know what you think! 🚀
-
 ## Let's Connect
 
 I love meeting fellow developers and tech enthusiasts. Let's connect and geek out together:
