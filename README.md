@@ -16,7 +16,7 @@ Here are some of the languages and tools I love to work with:
 
 - 💻 .NET, Java, NodeJs, React, Elixir
 - 🧰 VSCode, Docker, Git, K8s
-- 🌐 Azure <3, Office365, Dynamics365, Pheonix
+- 🌐 Azure <3, Office365, Dynamics365
 - 📱 React-Native, Flutter 
 
 ## Fun Facts
