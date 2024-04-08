@@ -8,7 +8,7 @@ I'm Brian Palmer, a Team Lead with a passion for coding and all things tech. Wel
 - 🚀 I enjoy working on Web and Mobile applications.
 - 💡 I'm constantly learning and improving my skills.
 - 🥋 In my free time, you can find me doing Muay Thai, Jiu Jitsu and Mud Runs.
-- 📫 Reach me at brian.palmer@live.com or connect with me on https://www.instagram.com/frugalthinker/
+- 📫 Reach me at brian.palmer@live.com
 
 ## Languages and Tools
 
@@ -30,6 +30,5 @@ Here are some of the languages and tools I love to work with:
 I love meeting fellow developers and tech enthusiasts. Let's connect and geek out together:
 
 - 📧 Email: brian.palmer@live.com
-- 💼 LinkedIn: https://www.linkedin.com/in/meetbrianpalmer
 
 Looking forward to connecting with you! 😊
