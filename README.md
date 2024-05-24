@@ -63,8 +63,8 @@ I'm Brian, a passionate software leader with over 10 years of experience in arch
 
 Here are a few projects I've been working on:
 
-- **[Project Name](https://github.com/code-with-brian/frugal-thinker)**: Brief description of the project.
-- **[Another Project](https://github.com/code-with-brian/frugal-thinker-sync)**: Brief description of the project.
+- **[Frugal Thinker Blog](https://github.com/code-with-brian/frugal-thinker)**: Brief description of the project.
+- **[Strava Activity Sync](https://github.com/code-with-brian/frugal-thinker-sync)**: Brief description of the project.
 
 Feel free to check out my repositories for more!
 
