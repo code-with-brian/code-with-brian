@@ -49,10 +49,6 @@ I'm Brian, a passionate software leader with over 10 years of experience in arch
 - 💼 [LinkedIn](https://linkedin.com/in/meetbrianpalmer)
 - 🖥️ [GitHub](https://github.com/code-with-brian)
 
-## 📊 GitHub Stats
-
-![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=code-with-brian&show_icons=true&theme=radical)
-
 ## 🏆 Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-brian&layout=compact&theme=radical)
