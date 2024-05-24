@@ -9,7 +9,7 @@ I'm Brian, a passionate software leader with over 10 years of experience in arch
 - 🌍 Based in Peterborough, ON
 - 📧 [brian.palmer@live.com](mailto:brian.palmer@live.com)
 - 💼 [LinkedIn](https://linkedin.com/in/meetbrianpalmer)
-- 🖥️ [GitHub](https://github.com/meetbrianpalmer)
+- 🖥️ [GitHub](https://github.com/code-with-brian)
 
 ## 🚀 Skills
 
@@ -49,22 +49,22 @@ I'm Brian, a passionate software leader with over 10 years of experience in arch
 
 - 📧 [brian.palmer@live.com](mailto:brian.palmer@live.com)
 - 💼 [LinkedIn](https://linkedin.com/in/meetbrianpalmer)
-- 🖥️ [GitHub](https://github.com/meetbrianpalmer)
+- 🖥️ [GitHub](https://github.com/code-with-brian)
 
 ## 📊 GitHub Stats
 
-![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=meetbrianpalmer&show_icons=true&theme=radical)
+![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=code-with-brian&show_icons=true&theme=radical)
 
 ## 🏆 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meetbrianpalmer&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-brian&layout=compact&theme=radical)
 
 ## 🛠️ Projects
 
 Here are a few projects I've been working on:
 
-- **[Project Name](https://github.com/meetbrianpalmer/project-name)**: Brief description of the project.
-- **[Another Project](https://github.com/meetbrianpalmer/another-project)**: Brief description of the project.
+- **[Project Name](https://github.com/code-with-brian/frugal-thinker)**: Brief description of the project.
+- **[Another Project](https://github.com/code-with-brian/frugal-thinker-sync)**: Brief description of the project.
 
 Feel free to check out my repositories for more!
 
