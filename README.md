@@ -23,7 +23,7 @@ I'm Brian, a passionate software leader with over 10 years of experience in arch
 - SQL, MongoDB
 
 ### AI/ML
-- LangChain, Ollama, Semantic Kernel
+- LangChain, Ollama, Semantic Kernel, Pinecone
 
 ### Cloud Platforms
 - Azure, AWS, Firebase
