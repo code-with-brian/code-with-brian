@@ -40,9 +40,7 @@ I'm Brian, a passionate software leader with over 10 years of experience in arch
 ## 🌟 Fun Facts
 
 - 🚴‍♂️ I love cycling and exploring new trails.
-- 🎮 Avid gamer and tech enthusiast.
 - 🌱 Always learning something new, currently diving into AI and machine learning.
-- 🐶 Dog lover and proud owner of a Golden Retriever named Max.
 - 🍕 Pizza aficionado – always on the hunt for the best slice in town.
 
 ## 📫 Get in Touch
