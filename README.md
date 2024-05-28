@@ -41,7 +41,7 @@ I'm Brian, a passionate software leader with over 10 years of experience in arch
 
 - 🚴‍♂️ I love cycling and exploring new trails.
 - 🌱 Always learning something new, currently diving into AI and machine learning.
-- 🍕 Pizza aficionado – always on the hunt for the best slice in town.
+- 🥊 Muay Thai enthusiast – dedicated to mastering the art of eight limbs.
 
 ## 📫 Get in Touch
 
