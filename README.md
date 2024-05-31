@@ -4,12 +4,7 @@
 
 ## About Me
 
-I'm Brian, a passionate software leader with over 10 years of experience in architecting scalable cloud-based solutions (Azure, AWS), collaborating with high-performing teams, and delivering complex projects on time and under budget. I love integrating cutting-edge technologies like GPT-4 to drive innovation and efficiency. When I'm not coding, you can find me mentoring others, exploring new tech, or enjoying the great outdoors in Peterborough, ON.
-
-- 🌍 Based in Peterborough, ON
-- 📧 [brian.palmer@live.com](mailto:brian.palmer@live.com)
-- 💼 [LinkedIn](https://linkedin.com/in/meetbrianpalmer)
-- 🖥️ [GitHub](https://github.com/code-with-brian)
+I'm Brian, a passionate software leader with over 10 years of experience in architecting scalable cloud-based solutions (Azure, AWS), collaborating with high-performing teams, and delivering complex projects on time and under budget. I love integrating cutting-edge technologies like GPT-4 to drive innovation and efficiency. When I'm not coding, you can find me mentoring others, exploring new tech, or enjoying the great outdoors in Ontario, Canada.
 
 ## 🚀 Skills
 
@@ -46,9 +41,7 @@ I'm Brian, a passionate software leader with over 10 years of experience in arch
 ## 📫 Get in Touch
 
 - 📧 [brian.palmer@live.com](mailto:brian.palmer@live.com)
-- 💼 [LinkedIn](https://linkedin.com/in/meetbrianpalmer)
-- 🖥️ [GitHub](https://github.com/code-with-brian)
-
+- 
 ## 🏆 Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-brian&layout=compact&theme=radical)
