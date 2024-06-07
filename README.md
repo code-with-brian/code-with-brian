@@ -48,11 +48,6 @@ I'm Brian, a passionate software leader with over 10 years of experience in arch
 
 ## 🛠️ Projects
 
-Here are a few projects I've been working on:
-
-- **[Frugal Thinker Blog](https://github.com/code-with-brian/frugal-thinker)**: A personal blog for finances, fitness and coding with an emphasis on frugality
-- **[Strava Activity Sync](https://github.com/code-with-brian/frugal-thinker-sync)**: a Go projet for syncing data into a SQLite DB
-
 Feel free to check out my repositories for more!
 
 ---
