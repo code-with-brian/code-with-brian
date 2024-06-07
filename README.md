@@ -46,8 +46,6 @@ I'm Brian, a passionate software leader with over 10 years of experience in arch
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-brian&layout=compact&theme=radical)
 
-## 🛠️ Projects
-
 Feel free to check out my repositories for more!
 
 ---
