@@ -1,54 +1,81 @@
-# Hi there, I'm Brian Palmer! 👋
+# Hey, I’m Brian Palmer 👋
+
+Founder, engineer, and systems builder.  
+I design and ship software that has to work in the real world, under load, with money, users, and regulators involved.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=meetbrianpalmer&color=blue)
 
-## About Me
+---
 
-I'm Brian, a passionate software leader with over 10 years of experience in architecting scalable cloud-based solutions (Azure, AWS), collaborating with high-performing teams, and delivering complex projects on time and under budget. I love integrating cutting-edge technologies like GPT-4 to drive innovation and efficiency. When I'm not coding, you can find me mentoring others, exploring new tech, or enjoying the great outdoors in Ontario, Canada.
+## 🧠 What I Do
 
-## 🚀 Skills
+- Build production SaaS products from zero to live users
+- Architect scalable backends and data systems
+- Ship AI-powered features that solve concrete problems
+- Navigate payments, compliance, and real-world constraints
+- Prefer shipping over theorizing
 
-### Programming Languages
-- .NET, Java, Python, Go, TypeScript, JavaScript, SQL
+I have 10+ years of experience across cloud platforms, data systems, and product engineering. Recently focused on AI infrastructure, fintech, and marketplace-style systems.
 
-### Frameworks
-- React, Spring Boot, Node.js
-
-### Databases
-- SQL, MongoDB
-
-### AI/ML
-- LangChain, Ollama, Semantic Kernel, Pinecone
-
-### Cloud Platforms
-- Azure, AWS, Firebase
-
-### DevOps Tools
-- Docker, Kubernetes, GitHub, Azure DevOps
-
-### Methodologies
-- Agile (Scrum), CI/CD, SaaS, Microservices, SOLID, BDD, TDD
-
-### Other Technologies
-- Flutter, React-Native, Grafana, SharePoint, Dynamics 365, Jupyter
-
-## 🌟 Fun Facts
-
-- 🚴‍♂️ I love cycling and exploring new trails.
-- 🌱 Always learning something new, currently diving into AI and machine learning.
-- 🥊 Muay Thai enthusiast – dedicated to mastering the art of eight limbs.
-
-## 📫 Get in Touch
-
-- 📧 [brian.palmer@live.com](mailto:brian.palmer@live.com)
-  
-## 🏆 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-brian&layout=compact&theme=radical&v=2)
-
-
-Feel free to check out my repositories for more!
+Based in Ontario, Canada 🇨🇦
 
 ---
 
-Thanks for stopping by! 😊
+## 🛠️ Tech Stack
+
+### Languages
+.NET, Java, Python, Go, TypeScript, JavaScript, SQL
+
+### Backend & Frameworks
+Node.js, Spring Boot, React
+
+### Data & Storage
+Postgres, SQL Server, MongoDB, ClickHouse
+
+### AI / ML
+LangChain, Ollama, Semantic Kernel, Pinecone, LLM integrations
+
+### Cloud & Infra
+AWS, Azure, Firebase
+
+### DevOps
+Docker, Kubernetes, GitHub Actions, Azure DevOps, CI/CD
+
+### Practices
+Distributed systems, SaaS architecture, microservices, event-driven design, TDD, BDD
+
+---
+
+## 🚀 Current Interests
+
+- AI as infrastructure, not demos
+- Payments, ledgers, and money movement
+- Developer-first products
+- Shipping small, learning fast, compounding wins
+
+---
+
+## 📊 GitHub Stats
+
+![Brian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meetbrianpalmer&show_icons=true&theme=radical&hide_title=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meetbrianpalmer&layout=compact&theme=radical)
+
+---
+
+## 🥊 Outside the Code
+
+- Muay Thai
+- Cycling and long walks
+- Thinking about systems, incentives, and leverage
+
+---
+
+## 📫 Contact
+
+- 📧 brian.palmer@live.com
+
+---
+
+If something here resonates, check out the repos.  
+Most of them exist because I needed the software to exist.
