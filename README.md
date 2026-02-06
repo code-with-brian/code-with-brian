@@ -55,14 +55,6 @@ Distributed systems, SaaS architecture, microservices, event-driven design, TDD,
 
 ---
 
-## 📊 GitHub Stats
-
-![Brian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=code-with-brian&show_icons=true&theme=radical&hide_rank=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-brian&layout=compact&theme=radical)
-
----
-
 ## 🥊 Outside the Code
 
 - Muay Thai
